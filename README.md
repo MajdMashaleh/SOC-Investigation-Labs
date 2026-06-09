@@ -1,77 +1,71 @@
-# SOC-Investigation-Labs
+# SOC Investigation Labs
 
-Cybersecurity SOC Investigation Labs
+## Overview
 
- Overview
- 
-This repository contains a collection of cybersecurity investigation labs designed to simulate real-world Security Operations Center (SOC) scenarios.
+This repository contains a collection of cybersecurity SOC-style investigation labs designed to simulate real-world security incident scenarios. Each lab is documented as a structured forensic report in PDF format, focusing on incident analysis, log investigation, and threat detection.
 
-Each lab includes structured forensic reports in PDF format, covering incident investigation, log analysis, phishing detection, and threat identification.
+The purpose of this project is to demonstrate practical cybersecurity skills through case-based SOC workflows and structured security reporting.
 
-The goal of this project is to demonstrate practical cybersecurity skills through hands-on analysis and structured reporting.
+---
 
- What’s Inside
- 
- Phishing email investigations
- 
- Log analysis and anomaly detection
- 
- Suspicious login investigations
- 
- Basic digital forensics scenarios
- 
- Structured SOC-style case reports (PDF format)
+## Live Platform
 
- 
- 
- Live Access
+The labs are accessible through the deployed web application:
 
-You can view the labs through the live web platform:
+https://majdmashaleh.onrender.com/project-options.html?project=7
 
-(https://majdmashaleh.onrender.com/project-options.html?project=7)
+Each lab can be opened directly in the browser as a full PDF report.
 
-Each lab can be opened directly in the browser .
+---
 
-Lab Structure
+## Labs Included
 
-Each lab follows a structured format:
+Each file in this repository represents a complete cybersecurity investigation case. The lab name is defined inside the PDF report.
 
-Objective of the investigation
+The repository includes investigations such as:
 
-Scenario description
+- Phishing email investigation and analysis
+- Suspicious login and authentication anomaly detection
+- Log analysis and event correlation
+- Security incident investigation scenarios
+- Basic forensic-style cybersecurity analysis
 
-Evidence collection (logs / artifacts)
+---
 
-Analysis process
+## Lab Format
 
-Findings and conclusions
+All labs follow a consistent SOC-style structure:
 
+- Case objective and scope
+- Scenario description
+- Evidence collection (logs, artifacts, or simulated data)
+- Step-by-step analysis
+- Findings and conclusions
 
+This structure simulates a simplified Security Operations Center (SOC) investigation workflow.
 
- Skills Demonstrated
+---
 
-Log analysis
+## Skills Demonstrated
 
-Incident response fundamentals
+This project demonstrates practical skills in:
 
-Threat detection
+- Security log analysis
+- Incident detection and investigation
+- Threat identification
+- SOC-style workflow understanding
+- Structured cybersecurity reporting
 
-Cybersecurity investigation workflow
+## Purpose
 
-Structured reporting (SOC style)
+This project was developed as part of a cybersecurity learning path focused on building practical SOC analyst skills through realistic investigation scenarios and structured documentation.
 
+---
 
-Purpose
-
-This project is part of a personal cybersecurity learning journey focused on building practical SOC analyst skills through realistic investigation scenarios.
-
-
-
-Author
+## Author
 
 Majd Mashaleh
-
-Cybersecurity & SOC Enthusiast
+Cybersecurity Enthusiast
 
 
 
