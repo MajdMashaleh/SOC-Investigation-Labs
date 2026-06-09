@@ -26,11 +26,16 @@ The repository includes investigations such as:
 
 - [LINUX LOGGING INVESTIGATION](https://majdmashaleh.onrender.com/cases/case.html?case=linux_logging)
   OR [LINUX LOGGING INVESTIGATION](./linux_logging.pdf)
-- [WINDOWS EVENT LOG ANALYSIS](https://majdmashaleh.onrender.com/cases/case.html?case=windows_logging) OR (./windows_logging.pdf)
+- [WINDOWS EVENT LOG ANALYSIS](https://majdmashaleh.onrender.com/cases/case.html?case=windows_logging)
+ OR [WINDOWS EVENT LOG ANALYSIS](./windows_logging.pdf)
 - [windows_threat](https://majdmashaleh.onrender.com/cases/case.html?case=windows_threat)
+  OR [windows_threat](./windows_threat.pdf)
 - [SNORT](https://majdmashaleh.onrender.com/cases/case.html?case=snort)
+  OR [SNORT](./snort.pdf)
 - [NETWORK SECURITY ESSENTIALS](https://majdmashaleh.onrender.com/cases/case.html?case=network_security_essentials)
-- [NETWORK DISCOVERY DETECTION](https://majdmashaleh.onrender.com/cases/case.html?case=network_discovery) OR
+  OR [NETWORK SECURITY ESSENTIALS](./network_security_essentials.pdf)
+- [NETWORK DISCOVERY DETECTION](https://majdmashaleh.onrender.com/cases/case.html?case=network_discovery)
+OR [NETWORK DISCOVERY DETECTION](./network_discovery.pdf)
 
 ---
 
