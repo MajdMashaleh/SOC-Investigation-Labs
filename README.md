@@ -24,7 +24,8 @@ Each file in this repository represents a complete cybersecurity investigation c
 
 The repository includes investigations such as:
 
-- [LINUX LOGGING INVESTIGATION](https://majdmashaleh.onrender.com/cases/case.html?case=linux_logging) OR (./linux_logging.pdf)
+- [LINUX LOGGING INVESTIGATION](https://majdmashaleh.onrender.com/cases/case.html?case=linux_logging)
+  OR [LINUX LOGGING INVESTIGATION](./linux_logging.pdf)
 - [WINDOWS EVENT LOG ANALYSIS](https://majdmashaleh.onrender.com/cases/case.html?case=windows_logging) OR (./windows_logging.pdf)
 - [windows_threat](https://majdmashaleh.onrender.com/cases/case.html?case=windows_threat)
 - [SNORT](https://majdmashaleh.onrender.com/cases/case.html?case=snort)
