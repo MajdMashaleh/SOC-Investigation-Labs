@@ -6,6 +6,7 @@ Each lab includes structured forensic reports in PDF format, covering incident i
 The goal of this project is to demonstrate practical cybersecurity skills through hands-on analysis and structured reporting.
 
  What’s Inside
+ 
  Phishing email investigations
  Log analysis and anomaly detection
  Suspicious login investigations
