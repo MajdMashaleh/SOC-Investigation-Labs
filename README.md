@@ -28,7 +28,7 @@ The goal of this project is to demonstrate practical cybersecurity skills throug
 
 You can view the labs through the live web platform:
 
-](https://majdmashaleh.onrender.com/project-options.html?project=7)
+(https://majdmashaleh.onrender.com/project-options.html?project=7)
 
 Each lab can be opened directly in the browser .
 
