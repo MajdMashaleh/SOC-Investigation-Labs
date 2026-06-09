@@ -24,11 +24,12 @@ Each file in this repository represents a complete cybersecurity investigation c
 
 The repository includes investigations such as:
 
-- Phishing email investigation and analysis
-- Suspicious login and authentication anomaly detection
-- Log analysis and event correlation
-- Security incident investigation scenarios
-- Basic forensic-style cybersecurity analysis
+- [LINUX LOGGING INVESTIGATION](https://majdmashaleh.onrender.com/cases/case.html?case=linux_logging) OR (./linux_logging.pdf)
+- [WINDOWS EVENT LOG ANALYSIS](https://majdmashaleh.onrender.com/cases/case.html?case=windows_logging) OR (./windows_logging.pdf)
+- [windows_threat](https://majdmashaleh.onrender.com/cases/case.html?case=windows_threat)
+- [SNORT](https://majdmashaleh.onrender.com/cases/case.html?case=snort)
+- [NETWORK SECURITY ESSENTIALS](https://majdmashaleh.onrender.com/cases/case.html?case=network_security_essentials)
+- [NETWORK DISCOVERY DETECTION](https://majdmashaleh.onrender.com/cases/case.html?case=network_discovery) OR
 
 ---
 
@@ -56,6 +57,14 @@ This project demonstrates practical skills in:
 - SOC-style workflow understanding
 - Structured cybersecurity reporting
 
+## How to Use
+
+1. Select a lab from the list above
+2. Open the PDF report
+3. Review the scenario, evidence, and analysis
+4. Follow the investigation process step by step
+
+   
 ## Purpose
 
 This project was developed as part of a cybersecurity learning path focused on building practical SOC analyst skills through realistic investigation scenarios and structured documentation.
