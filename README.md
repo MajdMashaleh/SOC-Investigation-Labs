@@ -1,5 +1,7 @@
 # SOC-Investigation-Labs
+
 Cybersecurity SOC Investigation Labs
+
  Overview
  
 This repository contains a collection of cybersecurity investigation labs designed to simulate real-world Security Operations Center (SOC) scenarios.
